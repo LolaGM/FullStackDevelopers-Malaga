@@ -5,200 +5,200 @@
             "foto": "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59094623-stock-illustration-female-avatar-woman.jpg",
             "nombre": "ADRIANA ",
             "apellido": "AGUILAR RUIZ",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/adrianaguilaruiz"
         },
         {
             "id": 2,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60848009-stock-illustration-woman-character-avatar.jpg",
             "nombre": "ALBA",
             "apellido": "RUS MARTÍNEZ",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 3,
             "foto": "https://st2.depositphotos.com/1006318/5909/v/600/depositphotos_59094217-stock-illustration-businesswoman-profile-icon.jpg",
             "nombre": "ALESIA ",
             "apellido": "BALDEÓN MACHUCA",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 4,
             "foto": "https://st2.depositphotos.com/2703645/11326/v/950/depositphotos_113264588-stock-illustration-womaan-avatar-character.jpg",
             "nombre": "ANA ",
             "apellido": "RUEDA GUIU",
-            "pais":"España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/anaruedaguiu"
         },
         {
             "id": 5,
             "foto": "https://st4.depositphotos.com/2703645/24892/v/1600/depositphotos_248920644-stock-illustration-colorful-vector-illustration-woman-avatar.jpg",
             "nombre": "BEATRIZ",
             "apellido": "DE AVILA JIMÉNEZ",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 6,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60847945-stock-illustration-woman-character-avatar.jpg",
             "nombre": "CAMILA ",
             "apellido": "RUIZ GUTIÉRREZ",
-            "pais": "Colombia",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 7,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60848463-stock-illustration-woman-avatar.jpg",
             "nombre": "CARMEN ",
             "apellido": "CRUCES FERNÁNDEZ",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 8,
             "foto": "https://st2.depositphotos.com/2703645/11507/v/950/depositphotos_115077884-stock-illustration-woman-avatar-character.jpg",
             "nombre": "CARMEN ",
             "apellido": "GALLARDO POZO",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/CarmenGP"
         },
         {
             "id": 9,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60844877-stock-illustration-woman-character-avatar.jpg",
             "nombre":  "ELENA",
             "apellido": " PEREZ ARJONA",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 10,
             "foto": "https://sp.depositphotos.com/114764976/stock-illustration-woman-avatar-character.html",
             "nombre": "ESTHER ",
             "apellido": "DE LUQUE ZURITA",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/EstherAma"
         },
         {
             "id": 11,
             "foto": "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59094817-stock-illustration-female-avatar-woman.jpg",
             "nombre": "FLORENCIA ",
             "apellido": "TISCORNIA",
-            "pais": "Argentina",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 12,
             "foto": "https://st2.depositphotos.com/2703645/11476/v/950/depositphotos_114764242-stock-illustration-woman-avatar-character.jpg",
             "nombre": "HIMORELL",
             "apellido": "JARAMILLO GONZALEZ",
-            "pais": "Colombia",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 13,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120727710-stock-illustration-woman-avatar-character.jpg",
             "nombre": "LEIDY",
             "apellido": "VILLAMIL",
-            "pais": "Venezuela",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 14,
             "foto": "https://sp.depositphotos.com/120725498/stock-illustration-woman-avatar-character.html",
             "nombre": "LOLA",
             "apellido": "GARCIA MORCILLO",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/LolaGM"
         },
         {
             "id": 15,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60844045-stock-illustration-woman-character-avatar.jpg",
             "nombre": "LOLA",
             "apellido": "NAVARRO",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 16,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120728726-stock-illustration-woman-avatar-character.jpg",
             "nombre": "SIERRI",
             "apellido": "PÉREZ SÁNCHEZ",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 17,
             "foto": "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59095633-stock-illustration-businesswoman-profile-icon.jpg",
             "nombre": "NATALIA",
             "apellido": "PALOMO FUENTES",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 18,
             "foto": "https://st2.depositphotos.com/2703645/11438/v/950/depositphotos_114389662-stock-illustration-woman-avatar-character.jpg",
             "nombre": "NOA",
             "apellido": "TRUJILLO ZAMORA",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 19,
             "foto": "https://sp.depositphotos.com/60845379/stock-illustration-woman-character-avatar.html",
             "nombre": "PALOMA",
             "apellido": "BABOT LEÓN",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 20,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120726078-stock-illustration-woman-avatar-character.jpg",
             "nombre": "PALOMA",
             "apellido": "RUIZ RAMÍREZ",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 21,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120724058-stock-illustration-woman-avatar-character.jpg",
             "nombre": "PAULA",
             "apellido": "RODRIGUEZ AGUDELO",
-            "pais": "Colombia",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 22,
             "foto": "https://st2.depositphotos.com/2703645/11476/v/950/depositphotos_114763844-stock-illustration-woman-avatar-character.jpg",
             "nombre": "RAQUEL",
             "apellido": "PALOMO FUENTES",
-            "pais": "España",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 23,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60848263-stock-illustration-woman-avatar.jpg",
             "nombre": "SANDRA",
             "apellido": "LEÓN DE RISCO",
-            "pais": "Venezuela",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 24,
             "foto": "https://st2.depositphotos.com/2703645/11438/v/950/depositphotos_114387610-stock-illustration-woman-avatar-character.jpg",
             "nombre": "VERÓNICA",
             "apellido": "FLORES GUTIÉRREZ",
-            "pais": "Colombia",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         },
         {
             "id": 25,
             "foto": "https://st2.depositphotos.com/19450650/42951/v/1600/depositphotos_429519474-stock-illustration-woman-silhouette-portrait-vector-illustration.jpg",
             "nombre": "VERONIKA",
             "apellido": "KOMAROVA",
-            "pais": "Ucrania",
-            "fortalezas": ""
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/"
         }
         
     ]
