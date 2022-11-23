@@ -11,6 +11,13 @@ fetchCodersJson().then(femCoders =>{
     {
         const sectionCoder = document.getElementById('coderSection');
 
+        "id"
+        "foto"
+        "nombre"
+        "apellido"
+        "linkedin"
+        "github"
+
         //console.log(femCoders.coders[index].nombre);
     }
 
