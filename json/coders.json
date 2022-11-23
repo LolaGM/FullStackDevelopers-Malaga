@@ -4,80 +4,90 @@
             "id": 1,
             "foto": "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59094623-stock-illustration-female-avatar-woman.jpg",
             "nombre": "ADRIANA ",
-            "apellido": "AGUILAR RUIZ",
+            "apellido": "AGUILAR",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/adrianaguilaruiz"
         },
         {
             "id": 2,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60848009-stock-illustration-woman-character-avatar.jpg",
             "nombre": "ALBA",
-            "apellido": "RUS MARTÍNEZ",
+            "apellido": "RUS",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 3,
             "foto": "https://st2.depositphotos.com/1006318/5909/v/600/depositphotos_59094217-stock-illustration-businesswoman-profile-icon.jpg",
             "nombre": "ALESIA ",
-            "apellido": "BALDEÓN MACHUCA",
+            "apellido": "BALDEÓN",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@alesia_purple",
             "github": "https://github.com/"
         },
         {
             "id": 4,
             "foto": "https://st2.depositphotos.com/2703645/11326/v/950/depositphotos_113264588-stock-illustration-womaan-avatar-character.jpg",
             "nombre": "ANA ",
-            "apellido": "RUEDA GUIU",
+            "apellido": "RUEDA",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@magnetizedgirl",
             "github": "https://github.com/anaruedaguiu"
         },
         {
             "id": 5,
             "foto": "https://st4.depositphotos.com/2703645/24892/v/1600/depositphotos_248920644-stock-illustration-colorful-vector-illustration-woman-avatar.jpg",
             "nombre": "BEATRIZ",
-            "apellido": "DE AVILA JIMÉNEZ",
+            "apellido": "DE AVILA",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 6,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60847945-stock-illustration-woman-character-avatar.jpg",
             "nombre": "CAMILA ",
-            "apellido": "RUIZ GUTIÉRREZ",
+            "apellido": "RUIZ",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@soycamiruiz",
             "github": "https://github.com/"
         },
         {
             "id": 7,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60848463-stock-illustration-woman-avatar.jpg",
             "nombre": "CARMEN ",
-            "apellido": "CRUCES FERNÁNDEZ",
+            "apellido": "CRUCES",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 8,
             "foto": "https://st2.depositphotos.com/2703645/11507/v/950/depositphotos_115077884-stock-illustration-woman-avatar-character.jpg",
             "nombre": "CARMEN ",
-            "apellido": "GALLARDO POZO",
+            "apellido": "GALLARDO",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/CarmenGP"
         },
         {
             "id": 9,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60844877-stock-illustration-woman-character-avatar.jpg",
             "nombre":  "ELENA",
-            "apellido": " PEREZ ARJONA",
+            "apellido": " PEREZ",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 10,
-            "foto": "https://sp.depositphotos.com/114764976/stock-illustration-woman-avatar-character.html",
-            "nombre": "ESTHER ",
-            "apellido": "DE LUQUE ZURITA",
+            "foto": " https://st2.depositphotos.com/2703645/11476/v/950/depositphotos_114764976-stock-illustration-woman-avatar-character.jpg",
+            "nombre": "ESTHER",
+            "apellido": "DE LUQUE",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@estherdeluque",
             "github": "https://github.com/EstherAma"
         },
         {
@@ -86,14 +96,16 @@
             "nombre": "FLORENCIA ",
             "apellido": "TISCORNIA",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 12,
             "foto": "https://st2.depositphotos.com/2703645/11476/v/950/depositphotos_114764242-stock-illustration-woman-avatar-character.jpg",
             "nombre": "HIMORELL",
-            "apellido": "JARAMILLO GONZALEZ",
+            "apellido": "JARAMILLO",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@himorell",
             "github": "https://github.com/"
         },
         {
@@ -102,14 +114,16 @@
             "nombre": "LEIDY",
             "apellido": "VILLAMIL",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@leidyvillamiloficial",
             "github": "https://github.com/"
         },
         {
-            "id": 14,
-            "foto": "https://sp.depositphotos.com/120725498/stock-illustration-woman-avatar-character.html",
+            "id": 14,            
+            "foto":"https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120725498-stock-illustration-woman-avatar-character.jpg",
             "nombre": "LOLA",
-            "apellido": "GARCIA MORCILLO",
+            "apellido": "GARCIA",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/LolaGM"
         },
         {
@@ -118,78 +132,88 @@
             "nombre": "LOLA",
             "apellido": "NAVARRO",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 16,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120728726-stock-illustration-woman-avatar-character.jpg",
             "nombre": "SIERRI",
-            "apellido": "PÉREZ SÁNCHEZ",
+            "apellido": "PÉREZ",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@libro_azules",
             "github": "https://github.com/"
         },
         {
             "id": 17,
             "foto": "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59095633-stock-illustration-businesswoman-profile-icon.jpg",
             "nombre": "NATALIA",
-            "apellido": "PALOMO FUENTES",
+            "apellido": "PALOMO",
             "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
+            "instagram" :"@nataaliapalomo",
+            "github": "https://github.com/Nataliaplm"
         },
         {
             "id": 18,
             "foto": "https://st2.depositphotos.com/2703645/11438/v/950/depositphotos_114389662-stock-illustration-woman-avatar-character.jpg",
             "nombre": "NOA",
-            "apellido": "TRUJILLO ZAMORA",
+            "apellido": "TRUJILLO",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@noa_knots",
             "github": "https://github.com/"
         },
         {
             "id": 19,
-            "foto": "https://sp.depositphotos.com/60845379/stock-illustration-woman-character-avatar.html",
+            "foto": " https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60845379-stock-illustration-woman-character-avatar.jpg",
             "nombre": "PALOMA",
-            "apellido": "BABOT LEÓN",
+            "apellido": "BABOT",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 20,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120726078-stock-illustration-woman-avatar-character.jpg",
             "nombre": "PALOMA",
-            "apellido": "RUIZ RAMÍREZ",
+            "apellido": "RUIZ",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@birdsinyourgarden",
             "github": "https://github.com/"
         },
         {
             "id": 21,
             "foto": "https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120724058-stock-illustration-woman-avatar-character.jpg",
             "nombre": "PAULA",
-            "apellido": "RODRIGUEZ AGUDELO",
+            "apellido": "RODRIGUEZ",
             "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
+            "instagram" :"https://www.instagram.com/",
+            "github": "https://github.com/pagudelo884/"
         },
         {
             "id": 22,
             "foto": "https://st2.depositphotos.com/2703645/11476/v/950/depositphotos_114763844-stock-illustration-woman-avatar-character.jpg",
             "nombre": "RAQUEL",
-            "apellido": "PALOMO FUENTES",
+            "apellido": "PALOMO",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"https://www.instagram.com/",
             "github": "https://github.com/"
         },
         {
             "id": 23,
             "foto": "https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60848263-stock-illustration-woman-avatar.jpg",
             "nombre": "SANDRA",
-            "apellido": "LEÓN DE RISCO",
+            "apellido": "LEÓN",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@sandralilder",
             "github": "https://github.com/"
         },
         {
             "id": 24,
             "foto": "https://st2.depositphotos.com/2703645/11438/v/950/depositphotos_114387610-stock-illustration-woman-avatar-character.jpg",
             "nombre": "VERÓNICA",
-            "apellido": "FLORES GUTIÉRREZ",
+            "apellido": "FLORES",
             "linkedin": "https://www.linkedin.com/",
+            "instagram" :"@veflo13",
             "github": "https://github.com/"
         },
         {
@@ -198,8 +222,8 @@
             "nombre": "VERONIKA",
             "apellido": "KOMAROVA",
             "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
-        }
-        
+            "instagram" :"@nikamosquito",
+            "github": "https://github.com/VeronikaKoma"
+        }        
     ]
 }

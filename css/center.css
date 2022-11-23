@@ -1,7 +1,25 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
 html {
     height: 100%;
 }
+
 body {
     height: 100%;
-    background-image: linear-gradient( rebeccapurple,mediumpurple);}
-  
+    background-image: linear-gradient( rebeccapurple,mediumpurple);
+}
+
+.cardCoders{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 70%;
+    text-align: center;
+}
+
+.card{
+    margin-bottom: 10px;
+}
