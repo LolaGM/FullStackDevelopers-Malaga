@@ -1,5 +1,5 @@
 *{
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Fira Code', monospace;    
 }
 
 html {
@@ -16,10 +16,9 @@ body {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    border-radius: 70%;
-    text-align: center;
-}
-
-.card{
+    margin-top: 5px;
     margin-bottom: 10px;
+    margin-left: 10px;
+    color: rebeccapurple;
+
 }

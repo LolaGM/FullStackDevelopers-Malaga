@@ -18,28 +18,30 @@ fetchCodersJson().then(femCoders =>{
         let socialMediaLinkedin = femCoders.coders[index].linkedin;
         let socialMediaInstagram =femCoders.coders[index].instagram;
         let githubRepository =femCoders.coders[index].github;
-    
-
-        //console.log(femCoders.coders[index].foto);
         
         sectionCoder.innerHTML += `
             
-            <div class="card" style="width: 10rem;">            
-                <div class="card-body container">
-                    <h6 class="card-title">${name} ${surname}</h6>
-                    <img src="${avatar}" class="card-img-top" alt="${name} ${surname}"><br>
-                    <p class="card-text">Frontend & BackEnd Developer</p>
-                    <a href="${socialMediaLinkedin}" class="btn btn-primary">LinkedIn</a>
-                    <a href="${socialMediaLinkedin}" class="btn btn-primary">Instagram</a>
-                    <a href="${githubRepository}" class="btn btn-primary">GitHub</a>
-                </div>
-                <div>
-                    <img src="" alt="">
-                    <img src="" alt="">
-                    <img src="" alt="">
+            <div class="cardCoders">
+                <div class="bg-white rounded-2xl items-center lg:rounded content-center flex justify-center p-1 shadow-lg items-center"> 
+                    <div class="mb-8 content-center text-center">  
+                        <div class="text-purple font-bold mb-2"><h5 class="card-title">${name} ${surname}</h5>
+                        </div>
+                        <div>
+                        <img class="w-40 h-15 rounded-full text-center items-center" src="${avatar}" alt="${name} ${surname}"> 
+                        </div>
+                        <div>    
+                        <p class="text-rebeccapurple-100">Frontend & BackEnd Developer</p>
+                        <br>
+                        </div> 
+                        <div class="cardCoders">
+                        <a href="${socialMediaLinkedin}" target="_blank"><img class="w-10 h-10 rounded-full" src="./images/linkedin.png" alt="${socialMediaLinkedin}"></a>
+                        <a href="${socialMediaInstagram}" target="_blank"><img class="w-10 h-10 rounded-full" src="./images/instagram.png" alt="${socialMediaInstagram}"></a>
+                        <a href="${githubRepository}" target="_blank"><img class="w-10 h-10 rounded-full" src="./images/github.png" alt="${githubRepository}"></a 
+                    </div>
                 </div>
             </div>
-        `
+            `
+        
     };
 
 })
