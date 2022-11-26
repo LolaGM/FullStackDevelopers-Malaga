@@ -22,12 +22,12 @@ fetchCodersJson().then(femCoders =>{
         sectionCoder.innerHTML += `
             
             <div class="cardCoders">
-                <div class="bg-white rounded-2xl items-center lg:rounded content-center flex justify-center p-1 shadow-lg items-center"> 
-                    <div class="mb-8 content-center text-center">  
-                        <div class="text-purple font-bold mb-2"><h5 class="card-title">${name} ${surname}</h5>
+                <div class="bg-white rounded-2xl items-center content-center p-2 items-center"> 
+                    <div class="mb-5 content-center text-center">  
+                        <div class="text-purple font-bold mb-1"><h4 class="card-title">${name} ${surname}</h4>
                         </div>
-                        <div>
-                        <img class="w-40 h-15 rounded-full text-center items-center" src="${avatar}" alt="${name} ${surname}"> 
+                        <div class="avatarCoder">
+                        <img class="w-40 h-15 rounded-full items-center" src="${avatar}" alt="${name} ${surname}"> <br>
                         </div>
                         <div>    
                         <p class="text-rebeccapurple-100">Frontend & BackEnd Developer</p>
