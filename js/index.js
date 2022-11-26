@@ -26,9 +26,11 @@ fetchCodersJson().then(femCoders =>{
                     <div class="mb-5 content-center text-center">  
                         <div class="text-purple font-bold mb-1"><h4 class="card-title">${name} ${surname}</h4>
                         </div>
+                        <br>
                         <div class="avatarCoder">
-                        <img class="w-40 h-15 rounded-full items-center" src="${avatar}" alt="${name} ${surname}"> <br>
+                        <img class="w-40 h-15 rounded-full items-center" src="${avatar}" alt="${name} ${surname}">
                         </div>
+                        <br>
                         <div>    
                         <p class="text-rebeccapurple-100">Frontend & BackEnd Developer</p>
                         <br>

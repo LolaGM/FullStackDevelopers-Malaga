@@ -8,7 +8,8 @@ html {
 
 body {
     height: 100%;
-    background-image: linear-gradient( rebeccapurple,mediumpurple);
+    background-image: linear-gradient( to top,#DDA0DD,rebeccapurple);
+    background-attachment:fixed;
 }
 
 h2{
