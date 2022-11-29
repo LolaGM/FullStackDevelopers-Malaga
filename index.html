@@ -4,33 +4,41 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="./css/upper.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <link rel="stylesheet" href="./css/index.css">
-    
-    <title>Full Stack Coders Málaga</title>
+    <title>Full Stack {FEM} Coders Málaga</title>
 </head>
 <body>
     <header>
-        <div class="menu">
-            <a href="index.html"><img src="./images/Logo v3.png" alt="Full Stack Coders Logo" width="60%"></a>
-            <ul class="menuList">
-                <li>
-                <a class="nav-link" href="index.html">Equipo</a>
-                </li>
-                <li>
-                <a class="nav-link" href="portfolio.html">Portafolio</a>
-                </li>
-                <li>
-                <a class="nav-link" href="sponsors.html">Patrocinadores</a>
-                </li>
-                <li>
-                <a class="nav-link" href="contact.html">Contacto</a>
-                </li>
-            </ul>
-        </div> 
-    </header>  
+        <nav class="menu flex flex-wrap  items-center justify-between w-full py-5 md:py-0 px-4 text-lg text-white bg-purple">
 
+            <div>
+                <a href="./index.html">
+                        <img src="./images/Logo v3.png" width="400" height="40" alt="Logo Full Stack">                
+                </a>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" id="menu-button" class="h-6 w-6 cursor-pointer md:hidden block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg> 
+
+            <div class="hidden w-full md:flex md:items-center md:w-auto" id="menu">
+                <ul class="pt-4 text-white-900 md:flex  md:justify-between  md:pt-0">
+                    <li>
+                        <a class="md:p-4 py-2 block hover:text-black-900" href="./index.html">Coders</a>
+                    </li>
+                    <li>
+                        <a class="md:p-4 py-2 block hover:text-black-900" href="#">Portafolio</a>
+                    </li>
+                    <li>
+                        <a class="md:p-4 py-2 block hover:text-black-400" href="#">Patrocinadores</a>
+                    </li>
+                    <li>
+                        <a class="md:p-4 py-2 block hover:text-black-400" href="#">Contacto</a>
+                    </li>                   
+                </ul>
+            </div>
+        </nav>
+    </header>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="./js/index.js"></script>

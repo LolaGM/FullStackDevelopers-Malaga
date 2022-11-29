@@ -3,29 +3,18 @@
     font-family: 'Fira Code', monospace;
 }
 
-.logo{
-    background-color: blueviolet;
-    width: 150px;
-    height: 10px;
-}
-
 body{
     background:linear-gradient(top,rebeccapurple,mediumpurple);
 }
 
 .menu{
     background-color: rebeccapurple;
-    display: flex;
-    display:inline-block;
-    flex-direction: row;
-    justify-content: center;
+    color: white;
+    font-size: 1.1em;
     text-align: center;
+    justify-content: center;
 }
 
-.menuList{
-    text-decoration: none;
-    list-style: none;
-    display: flex;
-    justify-content: space-evenly;
-    color: white;
-}
+
+
+
