@@ -1,15 +1,19 @@
 *{
     font-family: 'Fira Code', monospace;
-    background-color: mediumpurple;
-       
+    background-color: rebeccapurple;   
+}
+
+hr{
+    color: white;
 }
 
 .footer{
     color: white;
     display: flex;
+    flex-flow: row;
     flex-direction: row;
-    justify-content: space-evenly;
-    text-align: center;
+    justify-content: space-around;
+       
 }
 
 .footer a:hover{
