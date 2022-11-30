@@ -83,8 +83,8 @@
         },
         {
             "id": 10,
-            "foto": "https://sp.depositphotos.com/114764976/stock-illustration-woman-avatar-character.html",
-            "nombre": "ESTHER ",
+            "foto": " https://st2.depositphotos.com/2703645/11476/v/950/depositphotos_114764976-stock-illustration-woman-avatar-character.jpg",
+            "nombre": "ESTHER",
             "apellido": "DE LUQUE",
             "linkedin": "https://www.linkedin.com/",
             "instagram" :"@estherdeluque",
@@ -118,8 +118,8 @@
             "github": "https://github.com/"
         },
         {
-            "id": 14,
-            "foto": "https://sp.depositphotos.com/120725498/stock-illustration-woman-avatar-character.html",
+            "id": 14,            
+            "foto":"https://st2.depositphotos.com/2703645/12072/v/950/depositphotos_120725498-stock-illustration-woman-avatar-character.jpg",
             "nombre": "LOLA",
             "apellido": "GARCIA",
             "linkedin": "https://www.linkedin.com/",
@@ -164,7 +164,7 @@
         },
         {
             "id": 19,
-            "foto": "https://sp.depositphotos.com/60845379/stock-illustration-woman-character-avatar.html",
+            "foto": " https://st2.depositphotos.com/2703645/6084/v/950/depositphotos_60845379-stock-illustration-woman-character-avatar.jpg",
             "nombre": "PALOMA",
             "apellido": "BABOT",
             "linkedin": "https://www.linkedin.com/",
@@ -224,7 +224,6 @@
             "linkedin": "https://www.linkedin.com/",
             "instagram" :"@nikamosquito",
             "github": "https://github.com/VeronikaKoma"
-        }
-        
+        }        
     ]
 }
