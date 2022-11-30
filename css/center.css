@@ -2,23 +2,13 @@
     font-family: 'Fira Code', monospace;    
 }
 
-html {
-    height: 100%;
-}
-
 body {
-    height: 100%;
-/*     background-image: linear-gradient(rebeccapurple);
- */
-     background-attachment:fixed;
     background-color: rebeccapurple;
 }
 
 h1{
     color: white;
-    margin-top: 5px;
     text-align: center;
-
 }
 
 .cardCoders{
@@ -26,12 +16,10 @@ h1{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 15px;
-    margin-bottom: 5px;
-    margin-left: 6px;
+    margin: 10px;
     color: rebeccapurple;
-
 }
+
 .avatarCoder{
     display: flex;
     justify-content: center;
