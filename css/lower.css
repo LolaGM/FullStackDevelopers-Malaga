@@ -1,7 +1,4 @@
-*{
-    font-family: 'Fira Code', monospace;
-    background-color: rebeccapurple;   
-}
+
 
 hr{
     color: white;
@@ -12,12 +9,17 @@ hr{
     display: flex;
     flex-flow: row;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    margin-bottom: 1.5vw;
        
 }
 
-.footer a:hover{
+.footer a:active{
     color: white;    
+}
+
+.footer a:hover{
+    color: white;
 }
 
 .footer a:visited{

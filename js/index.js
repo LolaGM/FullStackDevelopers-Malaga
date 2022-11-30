@@ -32,7 +32,7 @@ fetchCodersJson().then(femCoders =>{
                         </div>
                         <br>
                         <div>    
-                        <p class="text-rebeccapurple-100">Frontend & BackEnd Developer</p>
+                        <p class="text-rebeccapurple-100 ">Frontend & Backend Developer</p>
                         <br>
                         </div> 
                         <div class="cardCoders">
