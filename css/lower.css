@@ -1,0 +1,21 @@
+*{
+    font-family: 'Fira Code', monospace;
+    background-color: mediumpurple;
+       
+}
+
+.footer{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.footer a:hover{
+    color: white;    
+}
+
+.footer a:visited{
+    color: white;
+}
