@@ -224,6 +224,11 @@
             "linkedin": "https://www.linkedin.com/",
             "instagram" :"@nikamosquito",
             "github": "https://github.com/VeronikaKoma"
+<<<<<<< HEAD
         }        
+=======
+        }
+        
+>>>>>>> origin/dev
     ]
 }
