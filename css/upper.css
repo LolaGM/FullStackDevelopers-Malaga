@@ -3,10 +3,6 @@
     font-family: 'Fira Code', monospace;
 }
 
-body{
-    background:linear-gradient(top,rebeccapurple,mediumpurple);
-}
-
 .menu{
     background-color: rebeccapurple;
     color: white;
