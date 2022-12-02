@@ -8,10 +8,12 @@ hr{
 
 .menu{
     background-color: rebeccapurple;
+    width: 100%;
     color: white;
     text-align: center;
     justify-content: center;
     text-decoration: none;
+    
 }
 
 .menu a:link{
