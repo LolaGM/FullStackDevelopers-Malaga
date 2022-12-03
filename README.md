@@ -43,4 +43,4 @@ The file containing all that data is a json file created on my own specially for
 ## Next steps:
 * Add new links and further contact information about all coders
 * Create the rest of webpages mentioned in the menu
-* Improve Media Query used
+* Use Media Query to improve the view
