@@ -6,7 +6,7 @@ hr{
     background-color: rebeccapurple;
     width: 100%;
     color: white;
-    text-align: center;
+    text-align:center;
     justify-content: center;
     text-decoration: none;    
 }
@@ -20,7 +20,7 @@ hr{
 }
 
 .menu a:hover{
-    background-color: rebeccapurple;
+    background-color: black;
     color: white;
     text-align: center;
     justify-content: center;
