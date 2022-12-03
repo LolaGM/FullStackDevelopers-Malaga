@@ -1,19 +1,18 @@
-*{
-    font-family: 'Fira Code', monospace;  
-}
-
 body {
     background-color: rebeccapurple;
 }
 
 h2{
+    font-size: 2em;
+    margin-top: 3vw;
     color: white;
     text-align: center;
 }
 
- h4{
+h4{
     font-size: 1.1em;
     margin-top: 3vw;
+    text-align: center;
  }
 
 .cardCoders{
