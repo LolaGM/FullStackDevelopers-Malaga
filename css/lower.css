@@ -1,0 +1,23 @@
+hr{
+    color: white;
+}
+
+.footer{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 1vw;       
+}
+
+.footer a:active{
+    color: white;    
+}
+
+.footer a:hover{
+    color: white;
+}
+
+.footer a:visited{
+    color: white;
+}

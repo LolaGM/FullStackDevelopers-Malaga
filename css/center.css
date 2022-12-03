@@ -1,0 +1,30 @@
+body {
+    background-color: rebeccapurple;
+}
+
+h2{
+    font-size: 2em;
+    margin-top: 3vw;
+    color: white;
+    text-align: center;
+}
+
+h4{
+    font-size: 1.1em;
+    margin-top: 3vw;
+    text-align: center;
+ }
+
+.cardCoders{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 30px;
+    color: rebeccapurple;
+}
+
+.avatarCoder{
+    display: flex;
+    justify-content: center;
+}
