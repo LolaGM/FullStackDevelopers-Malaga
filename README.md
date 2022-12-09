@@ -67,6 +67,7 @@ The file containing all that data is a json file created on my own specially for
 Please, follow these instructions:
 
  * install node.js extension (LTS version) from https://nodejs.org/es/download/
+ * Open Visual Studio Code --> New Terminal and run the following command lines:
  * $ node -v 
  * $ git clone https://github.com/LolaGM/FullStackFemCoders2022-Malaga
  * $ npm install
@@ -74,4 +75,4 @@ Please, follow these instructions:
  * $ ls
  * $ cd json/
  * $ json-server -- watch coders.json
- * $ npm install -g json.server
+ * $ npm install -g json-server
