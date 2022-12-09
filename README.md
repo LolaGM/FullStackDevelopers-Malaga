@@ -73,7 +73,5 @@ Please, follow these instructions:
  * $ npm update
  * $ ls
  * $ cd json/
- * $ ls
- Execute server:
  * $ json-server -- watch coders.json
  * $ npm install -g json.server
