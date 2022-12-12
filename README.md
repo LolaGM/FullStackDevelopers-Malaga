@@ -69,7 +69,7 @@ Please, follow these instructions:
  * install node.js extension (LTS version) from https://nodejs.org/es/download/
  * Open Visual Studio Code --> New Terminal and run the following command lines:
  * $ node -v 
- * $ git clone https://github.com/LolaGM/FullStackFemCoders2022-Malaga
+ * $ git clone https://github.com/LolaGM/FullStackFemCoders2022-Malaga.git
  * $ npm install
  * $ npm update
  * $ ls
