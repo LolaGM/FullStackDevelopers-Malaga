@@ -44,6 +44,7 @@ The file containing all that data is a json file created on my own specially for
   * Other technologies used:
   
 <p align ="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/116545851/206753577-40777644-bb10-428b-ae9c-597a54a58df6.png" alt="visual studio" width="40" height="40"/></a> 
 </p>
 
 ***
